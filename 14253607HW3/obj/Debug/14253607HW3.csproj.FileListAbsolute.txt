@@ -1,0 +1,12 @@
+c:\users\izgi\documents\visual studio 2015\Projects\14253607HW3\14253607HW3\bin\Debug\14253607HW3.exe.config
+c:\users\izgi\documents\visual studio 2015\Projects\14253607HW3\14253607HW3\bin\Debug\14253607HW3.exe
+c:\users\izgi\documents\visual studio 2015\Projects\14253607HW3\14253607HW3\bin\Debug\14253607HW3.pdb
+c:\users\izgi\documents\visual studio 2015\Projects\14253607HW3\14253607HW3\obj\Debug\14253607HW3.csprojResolveAssemblyReference.cache
+c:\users\izgi\documents\visual studio 2015\Projects\14253607HW3\14253607HW3\obj\Debug\_14253607HW3.Form1.resources
+c:\users\izgi\documents\visual studio 2015\Projects\14253607HW3\14253607HW3\obj\Debug\_14253607HW3.Properties.Resources.resources
+c:\users\izgi\documents\visual studio 2015\Projects\14253607HW3\14253607HW3\obj\Debug\14253607HW3.csproj.GenerateResource.Cache
+c:\users\izgi\documents\visual studio 2015\Projects\14253607HW3\14253607HW3\obj\Debug\14253607HW3.exe
+c:\users\izgi\documents\visual studio 2015\Projects\14253607HW3\14253607HW3\obj\Debug\14253607HW3.pdb
+C:\Users\izgi\Desktop\Nesneye yönelik programlama\14253607HW3\14253607HW3\bin\Debug\14253607HW3.exe.config
+C:\Users\izgi\Desktop\Nesneye yönelik programlama\14253607HW3\14253607HW3\obj\Debug\14253607HW3.exe
+C:\Users\izgi\Desktop\Nesneye yönelik programlama\14253607HW3\14253607HW3\obj\Debug\14253607HW3.pdb
